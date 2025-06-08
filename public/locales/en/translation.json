@@ -1,0 +1,92 @@
+{
+  "header": {
+    "title": "My Portfolio",
+    "subtitle": "Software Engineer",
+    "nav": {
+      "about": "About",
+      "portfolio": "Portfolio",
+      "gallery": "Gallery",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "greeting": "Hello, I'm ZanSang",
+    "p1": "I am a software engineer with over 7 years of experience building backend and full-stack solutions across industries like real estate tech, insurance platforms, and banking systems.",
+    "p2": "I've worked on API integrations, backend services, cloud infrastructure, and internal tools using technologies such as TypeScript, Node.js, Python, React, and AWS. Whether it's improving system reliability, optimizing data pipelines, or maintaining large codebases, I focus on writing clean, maintainable code and collaborating closely with cross-functional teams.",
+    "p3": "I value continuous learning and often share knowledge through documentation and team sessions. Outside of work, I enjoy exploring new technologies, reading engineering blogs, and taking walks to unwind.",
+    "p4": "I'm currently looking for new opportunities where I can contribute my experience, grow alongside a strong team, and build impactful software."
+  },
+  "portfolio": {
+    "title": "My Portfolio",
+    "projects": [
+      {
+        "id": "proj1",
+        "title": "E-commerce Platform",
+        "description": "A full-featured e-commerce platform built with React, Node.js, and PostgreSQL. Implemented secure payment gateway and order management system.",
+        "imageUrl": "https://via.placeholder.com/400x250/cccccc/969696?text=Project+Alpha",
+        "projectUrl": "#",
+        "githubUrl": "#",
+        "tags": ["React", "Node.js", "PostgreSQL", "Stripe"]
+      },
+      {
+        "id": "proj2",
+        "title": "Task Management App",
+        "description": "A collaborative task management tool with real-time updates using Firebase. Features include drag-and-drop boards and user authentication.",
+        "imageUrl": "https://via.placeholder.com/400x250/a2a2a2/777777?text=Project+Beta",
+        "projectUrl": "#",
+        "githubUrl": "#",
+        "tags": ["React", "Firebase", "Material UI"]
+      },
+      {
+        "id": "proj3",
+        "title": "Personal Blog Engine",
+        "description": "A lightweight and fast blog engine built with Next.js and Markdown. Optimized for SEO and performance, with a clean and responsive design.",
+        "imageUrl": "https://via.placeholder.com/400x250/888888/555555?text=Project+Gamma",
+        "projectUrl": "#",
+        "githubUrl": "#",
+        "tags": ["Next.js", "Markdown", "Tailwind CSS"]
+      }
+    ],
+    "card": {
+        "liveDemo": "Live Demo",
+        "viewCode": "View Code"
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "images": [
+      {
+        "id": "gal1",
+        "imageUrl": "https://via.placeholder.com/400x300/999999/FFFFFF?text=Nature+Photo",
+        "caption": "Beautiful landscape scenery",
+        "altText": "A scenic view of mountains and a lake"
+      },
+      {
+        "id": "gal2",
+        "imageUrl": "https://via.placeholder.com/400x300/AAAAAA/FFFFFF?text=Tech+Setup",
+        "caption": "My minimalist workspace",
+        "altText": "A clean desk with a laptop and coffee"
+      },
+      {
+        "id": "gal3",
+        "imageUrl": "https://via.placeholder.com/400x300/BBBBBB/FFFFFF?text=Hobby+Project",
+        "caption": "Working on a side project",
+        "altText": "Close-up of electronics and tools"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "p1": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of something amazing. Feel free to reach out!",
+    "emailButton": "Send Me An Email",
+    "socialPrompt": "Or connect with me on social media:",
+    "xUrl": "https://x.com/zansangtan",
+    "githubUrl": "https://github.com/zansangtan",
+    "linkedinUrl": "https://www.linkedin.com/in/zansangtan",
+    "instagramUrl": "https://www.instagram.com/zansang.tan/"
+  },
+  "footer": {
+    "copyright": "© {{year}} ZanSang Tan. All rights reserved."
+  }
+} 

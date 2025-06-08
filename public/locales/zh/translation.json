@@ -1,0 +1,92 @@
+{
+  "header": {
+    "title": "我的作品集",
+    "subtitle": "软件工程师",
+    "nav": {
+      "about": "关于",
+      "portfolio": "作品集",
+      "gallery": "画廊",
+      "contact": "联系"
+    }
+  },
+  "about": {
+    "title": "关于我",
+    "greeting": "你好，我是 展昇",
+    "p1": "我是一名拥有超过7年经验的软件工程师，曾在房地产科技、保险平台和银行系统等领域从事后端与全端开发工作。",
+    "p2": "我参与过API集成、后端服务开发、云端基础设施部署和内部工具的维护，熟悉使用 TypeScript、Node.js、Python、React 和 AWS 等技术。不论是提升系统稳定性、优化数据流程，还是维护大型代码库，我始终专注于编写高质量、易维护的代码，并与跨职能团队紧密合作。",
+    "p3": "我注重持续学习，也乐于通过文档撰写和团队分享来传递技术知识。工作之余，我喜欢探索新技术、阅读工程相关的内容，也会通过散步放松心情。",
+    "p4": "目前我正在寻找新的职业机会，希望能在一个积极成长的团队中发挥所长，共同打造有影响力的软件产品。"
+  },
+  "portfolio": {
+    "title": "我的作品集",
+    "projects": [
+      {
+        "id": "proj1",
+        "title": "电子商务平台",
+        "description": "一个功能齐全的电子商务平台，使用React、Node.js和PostgreSQL构建。实现了安全的支付网关和订单管理系统。",
+        "imageUrl": "https://via.placeholder.com/400x250/cccccc/969696?text=项目+Alpha",
+        "projectUrl": "#",
+        "githubUrl": "#",
+        "tags": ["React", "Node.js", "PostgreSQL", "Stripe"]
+      },
+      {
+        "id": "proj2",
+        "title": "任务管理应用",
+        "description": "一个使用Firebase进行实时更新的协作任务管理工具。功能包括拖放板和用户身份验证。",
+        "imageUrl": "https://via.placeholder.com/400x250/a2a2a2/777777?text=项目+Beta",
+        "projectUrl": "#",
+        "githubUrl": "#",
+        "tags": ["React", "Firebase", "Material UI"]
+      },
+      {
+        "id": "proj3",
+        "title": "个人博客引擎",
+        "description": "一个使用Next.js和Markdown构建的轻量级快速博客引擎。针对SEO和性能进行了优化，设计简洁且响应迅速。",
+        "imageUrl": "https://via.placeholder.com/400x250/888888/555555?text=项目+Gamma",
+        "projectUrl": "#",
+        "githubUrl": "#",
+        "tags": ["Next.js", "Markdown", "Tailwind CSS"]
+      }
+    ],
+    "card": {
+        "liveDemo": "在线演示",
+        "viewCode": "查看代码"
+    }
+  },
+  "gallery": {
+    "title": "画廊",
+    "images": [
+      {
+        "id": "gal1",
+        "imageUrl": "https://via.placeholder.com/400x300/999999/FFFFFF?text=自然风光",
+        "caption": "美丽的风景",
+        "altText": "山与湖的风景"
+      },
+      {
+        "id": "gal2",
+        "imageUrl": "https://via.placeholder.com/400x300/AAAAAA/FFFFFF?text=技术设备",
+        "caption": "我极简的工作空间",
+        "altText": "一张干净的桌子，上面有笔记本电脑和咖啡"
+      },
+      {
+        "id": "gal3",
+        "imageUrl": "https://via.placeholder.com/400x300/BBBBBB/FFFFFF?text=个人项目",
+        "caption": "在做一个个人项目",
+        "altText": "电子产品和工具的特写"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系我",
+    "p1": "我随时乐于讨论新项目、创意或合作机会。欢迎随时与我联系！",
+    "emailButton": "给我发邮件",
+    "socialPrompt": "或者在社交媒体上联系我：",
+    "xUrl": "https://x.com/zansangtan",
+    "githubUrl": "https://github.com/zansangtan",
+    "linkedinUrl": "https://www.linkedin.com/in/zansangtan",
+    "instagramUrl": "https://www.instagram.com/zansang.tan/"
+  },
+  "footer": {
+    "copyright": "© {{year}} 陳展昇。版权所有。"
+  }
+} 
